@@ -59,7 +59,7 @@ and it is simple to create your own indicator too
 
 ### Installation
 ```sh
-npm install  --save react-stockcharts
+npm install  --save vision-react-stock-chart
 ```
 
 ### Documentation
